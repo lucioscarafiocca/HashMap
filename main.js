@@ -112,18 +112,3 @@ function HashMap() {
 }
 
 let array = [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}]
-const map = HashMap()
-map.set("jorge", "ramirez")
-map.set("martin", "gay")
-map.set("dog", "brown")
-map.set("elephant", "gray")
-map.set("frog", "green")
-map.set("grape", "purple")
-map.set("hat", "black")
-map.set("ice cream", "white")
-map.set("jacket", "blue")
-map.set("kite", "pink")
-map.set("lion", "golden")
-map.set("te", "garcho")
-map.set("yo", "garcho")
-map.set("martin", "amo")
